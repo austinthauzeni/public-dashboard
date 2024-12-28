@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+public dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This is public dashboard written in next Js. you can clone the code and customise it to your requirements
